@@ -4,4 +4,7 @@
 @theme {
   --color-primary: oklch(70.7% 0.165 254.624);
   --font-display: "Manrope", "sans-serif";
+  --breakpoint-paaji: 690px;
+  --breakpoint-3xl: 2560px;
+
 }
